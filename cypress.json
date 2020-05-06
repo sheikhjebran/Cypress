@@ -1,0 +1,5 @@
+{
+  "testFiles": "**/*.{feature,features}",
+  "baseUrl": "https://www.experian.co.uk/",
+  "projectId": "389rbp"
+}
