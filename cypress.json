@@ -1,5 +1,14 @@
 {
   "testFiles": "**/*.{feature,features}",
   "baseUrl": "https://www.experian.co.uk/",
-  "projectId": "389rbp"
+  "projectId": "6w3obk",
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "charts": true,
+    "overwrite": false,
+    "html": true,
+    "json": true,
+    "reportDir": "cypress/report/mochawesome-report"
+  }
+  
 }
